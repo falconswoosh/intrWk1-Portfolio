@@ -10,7 +10,7 @@ This website is our first project for the Introduction to Programming. It contai
 
 ## Setup/Installation Requirements
 
-* You may view this project at: https://github.com/falconswoosh/intrWk1-Portfolio
+* You may view this project at: https://falconswoosh.github.io/intrWk1-Portfolio/
 * This project may be cloned from:  https://github.com/falconswoosh/intrWk1-Portfolio.git
 * Clone to your local system
 * Open the project folder "intrWk1-Portfolio"
@@ -36,4 +36,4 @@ Alan Falcon email: [falconswoosh@gmail.com](falconswoosh@gmail.com)
 
 Header image sourced from [Lange Photography](http://lange-photography.photoshelter.com/image/I0000XwX2vQwajLQ) sourced from the web.
 
-Copyright (c) 2016 **_{GPL}_**
+Copyright (c) 2016 **_{Epicodus}_**
