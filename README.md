@@ -36,4 +36,4 @@ Alan Falcon email: [falconswoosh@gmail.com](falconswoosh@gmail.com)
 
 Header image sourced from [Lange Photography](http://lange-photography.photoshelter.com/image/I0000XwX2vQwajLQ) sourced from the web.
 
-Copyright (c) 2016 **_{Epicodus}_**
+Copyright (c) 2016 **_{MIT}_**
